@@ -1,0 +1,21 @@
+# 📅 Rezervační systém
+
+**Jazyk:** JavaScript + React  
+**Build:** Create React App
+
+## Spuštění
+
+1. Nainstalujte závislosti:
+   
+   npm install
+
+2. Spusťte vývojový server:
+   
+   npm start
+
+3. Otevřete http://localhost:3000
+
+## Funkce
+
+- Rezervace termínů online
+- Správa rezervací přes webové rozhraní
