@@ -19,3 +19,13 @@
 
 - Rezervace termínů online
 - Správa rezervací přes webové rozhraní
+
+Tento projekt je rezervační systém s webovým rozhraním, který umožňuje:
+
+-Přihlášení uživatele a správu jeho rezervací
+-Vytváření, úpravu a mazání rezervací na konkrétní datum
+-Zobrazení kalendáře dostupnosti s přehledem volných a obsazených termínů
+-Možnost přidat recenzi k rezervaci
+-Uživatelsky přívětivé ovládání a vizuální zvýraznění obsazených termínů
+
+Frontend je vytvořen v JavaScriptu (React), data o rezervacích se ukládají v aplikaci. Projekt je vhodný pro správu rezervací v malých firmách, službách nebo komunitních akcích.
