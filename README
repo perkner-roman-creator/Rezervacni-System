@@ -15,7 +15,7 @@
 
 3. Otevřete http://localhost:3000
 
-Tento projekt je rezervační systém s webovým rozhraním, který umožňuje:
+Rezervační systém s webovým rozhraním, který umožňuje:
 
 -Přihlášení uživatele a správu jeho rezervací
 -Vytváření, úpravu a mazání rezervací na konkrétní datum
