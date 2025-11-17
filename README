@@ -15,11 +15,6 @@
 
 3. Otevřete http://localhost:3000
 
-## Funkce
-
-- Rezervace termínů online
-- Správa rezervací přes webové rozhraní
-
 Tento projekt je rezervační systém s webovým rozhraním, který umožňuje:
 
 -Přihlášení uživatele a správu jeho rezervací
